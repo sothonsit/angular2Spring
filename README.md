@@ -6,7 +6,7 @@ https://github.com/dougludlow/ng2-bs3-modal
 
 Include this model into node_model
 
-Cradit.
+Credit.
 https://scotch.io/tutorials/angular-2-http-requests-with-observables
 
 
